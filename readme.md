@@ -1,4 +1,4 @@
-#Ejercicio Materias:
+# Ejercicio Materias
 Diseñar una Base de Datos para almacenar datos de estudiantes que cursan
 materias en un Instituto. Para Estudiante se quiere almacenar su No. De Control,
 Nombre del Alumno, Modalidad del estudiante. Cada Estudiante se clasifica en dos
@@ -14,7 +14,7 @@ Cuando un alumno cursa una materia se requiere almacenar la calificación y la c
 en un semestre en particular. Para el Semestre se debe almacenar el idSemestre,
 Nombre del Semestre y año.
 
-#Ejercicio Reparaciones:
+# Ejercicio Reparaciones
 Se desea almacenar datos para una empresa que ofrece mantenimientos a vehículos
 nuevos y seminuevos. Para los datos de los coches se almacenará su Matrícula,
 Marca, Modelo, Color.
@@ -26,7 +26,7 @@ un mecánico puede dar mantenimiento a varios coches.
 Un coche puede clasificarse en Nuevo o Usado. Para nuevo se almacena No. De
 factura y para Usado el Kilometraje.
 
-#Ejercicio Camionero:
+# Ejercicio Camionero
 Se desea informatizar la gestión de una empresa de transporte que reparte paquetes
 por toda España. Los encargados de llevar los paquetes son los camioneros, de los
 que se quiere guardar el ID, nombre, teléfono, dirección, salario y población en que
@@ -42,7 +42,7 @@ tipo y potencia. Un camionero puede conducir diferentes camiones en fechas
 diferentes, y un camión puede ser conducido por varios camioneros. MODELO
 ENTIDAD RELACION
 
-#Ejercicio Hospital:
+# Ejercicio Hospital
 “La clínica ABC” necesita llevar un control informatizado de su gestión de pacientes
 y médicos. De cada paciente se desea guardar el código, nombre, apellido, dirección,
 población, municipio, código postal, teléfono y especialidad. Se desea llevar el

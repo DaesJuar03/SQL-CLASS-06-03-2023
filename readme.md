@@ -39,8 +39,7 @@ paquete solo puede llegar a una provincia, sin embargo, a una provincia pueden
 llegar varios paquetes.
 De los camiones que llevan los camioneros, interesa conocer la matricula, modelo,
 tipo y potencia. Un camionero puede conducir diferentes camiones en fechas
-diferentes, y un camión puede ser conducido por varios camioneros. MODELO
-ENTIDAD RELACION
+diferentes, y un camión puede ser conducido por varios camioneros.
 
 # Ejercicio Hospital
 “La clínica ABC” necesita llevar un control informatizado de su gestión de pacientes
